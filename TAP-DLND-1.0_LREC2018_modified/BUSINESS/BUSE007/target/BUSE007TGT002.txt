@@ -1,0 +1,17 @@
+MUMBAI: The Reserve Bank of India has issued an ultimatum to Indian banks on cyber crimes, asking them to immediately report any breach of security so that the overall network is not compromised.
+
+The tough stance follows the reluctance of some banks to report such frauds in order to avoid negative publicity. The banking regulator has set a deadline of March 31, 2017, for banks to put in place a mechanism to report cyber attacks immediately.
+
+A team of RBI officials, led by Executive Director Meena Hemchandra, has conveyed this to senior executives of banks in a meeting held recently.
+
+The officials told bankers that RBI will handhold them till March 31 next year but after that, banks should be prepared for punitive action if they fail to immediately inform about any cyber attack, two senior officials said.
+
+RBI did not respond to an email sent by ET till press time Sunday.
+
+"Banks have to alert RBI immediately even if the cyber attack did not fructify," a person present in the meeting said, quoting an RBI official. "Alerting RBI about cyber frauds that are systemic in nature, such as hacking of a bank's server, would enable them in taking proactive measures and alerting other banks to take preventive measures."
+
+RBI has noticed that banks are often hesitant to share with it incidences concerning cyber security for fear of receiving adverse publicity, which could affect their business.
+
+"Besides branches, all other alternate channels are electronic such as ATM, online banking and mobile banking. Therefore, the risk of cyber attack is high since the bank is giving third party an access to their system," said a bank official.
+
+RBI has asked all banks to set up securities operation centres, which will monitor and manage cyber risk on a real-time basis.

@@ -1,0 +1,1 @@
+The notes dispensed by the ATM were missing the rupee symbol.

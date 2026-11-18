@@ -1,0 +1,5 @@
+Technology Services announced a Digital Engineering Transformation partnership with Microsoft Corporation to deliver Microsoft Azure Engineering Solutions for global enterprises across industries.
+
+This strategic partnership between the two companies enables enterprises around the world to leverage Technology's cutting-edge IP-led Digital Engineering solutions hosted on Microsoft's Azure enterprise cloud-first, mobile-first infrastructure.
+
+Technology Services' iBEMS (Integrated Building Energy Management Systems) framework will soon be available on Microsoft's Azure cloud platform for rapid global enterprise deployments that aspire for eco-friendly, green campuses and energy savings. Hosting this solution on Microsoft's hyper-scale Azure cloud service enables enterprises to deploy and manage energy consumption as well as carbon footprint for entire campuses, buildings and facilities leveraging the Internet of Things (IoT), Predictive Analytics and Machine Learning securely on the Azure cloud.

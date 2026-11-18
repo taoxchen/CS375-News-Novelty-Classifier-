@@ -1,0 +1,5 @@
+Cognizant has announced that it has been selected by Future Group, a multi-brand retailer, as a strategic partner to transform Future Consumer Ltd (FCL), Future Group’s consumer goods business, into a connected enterprise to achieve higher levels of efficiency, agility and business impact.
+
+As part of the engagement, Cognizant will build a platform for FCL to simplify, automate and secure business processes, speed up collaboration, and maximise synergies across all lines of business and corporate functions. To be built using SAP’s S/4HANA business suite, the platform will enable FCL to optimise the supply chain and improve business throughput. Cognizant will also help FCL harness digital technologies, including mobile and data analytics, for real-time performance and operational insights to accelerate decision-making, innovation and time-to-market.“
+
+Future Consumer Ltd (FCL), a part of the Future Group, is an operating company which has a presence in the food and FMCG sector through a chain of retail formats and private brands.
